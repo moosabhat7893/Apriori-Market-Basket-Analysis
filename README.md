@@ -9,7 +9,9 @@ To identify relationships between products and generate 'association rules' usin
 - Python  
 - pandas, numpy  
 - mlxtend / apyori  
-   
+# Dataset:
+[Groceries Dataset](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset) containing transactions of items purchased by different members over time.
+ 
 
 # Key Features
 - Data preprocessing and transaction grouping (customer + date based)  
